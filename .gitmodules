@@ -1,3 +1,6 @@
 [submodule "plug/face1"]
 	path = plug/face1
 	url = https://github.com/ganenhu/face.git
+[submodule "plug/mostreamer"]
+	path = plug/mostreamer
+	url = https://github.com/ganenhu/face.git
